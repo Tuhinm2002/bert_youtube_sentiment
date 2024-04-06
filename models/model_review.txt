@@ -1,0 +1,3 @@
+Due to git lfs errors it has been removed from here 
+To get the pretrained model got huggingface hub where the model is deployed
+or go to docker hub
