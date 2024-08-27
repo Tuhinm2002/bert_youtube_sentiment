@@ -37,3 +37,5 @@ This project leverages the power of **BERT** (Bidirectional Encoder Representati
 ```bash
 git clone https://github.com/your-username/realtime-youtube-sentiment.git
 cd realtime-youtube-sentiment
+pip install -r requirements.txt
+```
