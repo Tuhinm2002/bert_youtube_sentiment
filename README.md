@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Docker Hub](https://img.shields.io/badge/Docker-Hub-blue?logo=docker)](https://hub.docker.com/r/your-dockerhub-username/your-repo-name)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/realtime-youtube-sentiment.svg?style=social)](https://github.com/Tuhinm2002/bert_youtube_sentiment)
+[![GitHub Stars](https://img.shields.io/github/stars/tuhinm2002/bert_youtube_sentiment.svg?style=social)](https://github.com/Tuhinm2002/bert_youtube_sentiment)
 
 ## 📖 Overview
 
